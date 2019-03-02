@@ -12,4 +12,4 @@ This are a few examples of file images in the assets folder:
 - /assets/image002 - Bed.png
 - /assets/image003 - Dog.png
 
-The images will show in order and the description will be everything after ' - '. Only uses png files.
+The images will show in order and the description will be everything after ' - '. Only use png files.
