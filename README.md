@@ -2,7 +2,7 @@
 
 Android Slideshow using Assets
 
-How to use it? The Gallery.java is an Activity (check it out) and get all the images sorted from the assets folder.
+How to use it? The Gallery.java is an Activity (check it out) and it gets all the images sorted from the assets folder.
 
 ## IMPORTANT
 
