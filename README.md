@@ -8,8 +8,8 @@ How to use it? The Gallery.java is an Activity (check it out) and get all the im
 
 This are a few examples of file images in the assets folder:
 
-- image001 - House
-- image002 - Bed
-- image003 - Dog
+- /assets/image001 - House.png
+- /assets/image002 - Bed.png
+- /assets/image003 - Dog.png
 
-The images will show in order and the description will be everything after ' - '.
+The images will show in order and the description will be everything after ' - '. Only uses png files.
