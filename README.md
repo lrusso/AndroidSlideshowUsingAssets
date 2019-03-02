@@ -4,7 +4,7 @@ Android Slideshow using Assets
 
 How to use it? The Gallery.java is an Activity (check it out) and get all the images sorted from the assets folder.
 
-##IMPORTANT
+## IMPORTANT
 
 This are a few examples of file images in the assets folder:
 
