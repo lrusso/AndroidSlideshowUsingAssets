@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 	xmlns:android="http://schemas.android.com/apk/res/android"
+    			android:id="@+id/pager_indicator_container"
+    			android:layout_width="fill_parent"
+    			android:layout_height="wrap_content"
+    			android:background="@android:color/transparent"
+    			android:gravity="center"
+    			android:orientation="horizontal"
+    			android:padding="10dp" >
+
+</LinearLayout>
